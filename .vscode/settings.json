@@ -1,0 +1,26 @@
+{
+    "eslint.workingDirectories": [
+        "./web",
+        "./studio"
+    ],
+    // "editor.defaultFormatter": "dsznajder.es7-react-js-snippets",
+    // "editor.foldingImportsByDefault": true,
+    // "reactSnippets.settings.prettierEnabled": true,
+    // "eslint.alwaysShowStatus": true,
+    // "eslint.debug": false,
+    // "git.branchPrefix": "dev-",
+    // "material-icon-theme.activeIconPack": "react",
+    // "workbench.iconTheme": "material-icon-theme",
+    // "workbench.tips.enabled": false,
+    // "workbench.editor.autoLockGroups": {
+    //     "vscode.markdown.preview.editor": true,
+    //     "mainThreadWebview-markdown.preview": true
+    // },
+    // "editor.inlineSuggest.enabled": true,
+    // "javascript.suggest.completeFunctionCalls": true,
+    // "[css]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    // "css.validate": false,
+    "tailwindCSS.emmetCompletions": true,
+}
