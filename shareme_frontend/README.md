@@ -8,6 +8,7 @@ Built with React, Tailwind & Sanity.
 
 ## Steps
 ![Doc](https://tailwindcss.com/docs/guides/create-react-app)
+
     * Intialize Sanity for backend 
         -> npm install -g @sanity/cli
         -> sanity init
